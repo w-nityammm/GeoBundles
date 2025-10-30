@@ -1,3 +1,9 @@
-# first_mod
+# GeoBundles
 
-A mod for the game Hollow Knight.
+A Hollow Knight mod to store Geo in "bundles" to protect it from loss upon death, similar to rosary strings in silksong.
+
+## How to Use
+
+* **Craft (Press K):** While at a bench, craft 1 Geo Bundle for 300 geo.
+
+* **Break (Press J):** Press `J` anywhere to break 1 Geo Bundle into 260 geo.
